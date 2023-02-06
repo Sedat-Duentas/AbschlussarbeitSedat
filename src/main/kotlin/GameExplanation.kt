@@ -9,7 +9,7 @@ fun gameExplanation () {
             "Der Kampf beginnt mit den Helden, die jeweils dreimal gegen Sauron antreten.\n" +
             "Sauron antwortet dann in dem er einmal zurückangreift.\n" +
             "Das Spiel wird beendet, wenn die Helden ihre Lebenspunkte verlieren oder Saurons seine Lebenspunkte verliert.")
-    Thread.sleep(2000)
+    Thread.sleep(5000)
     println()
     println("Also fangen wir an\n" +
             "Das Heldenteam beginnt")
