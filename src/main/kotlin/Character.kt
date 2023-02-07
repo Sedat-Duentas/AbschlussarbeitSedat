@@ -53,7 +53,7 @@ open class Character(open var name: String, open var lifePoints: Double) {
         println("Fehler")
     }
     /**
-     * Funktion die den Rundenanzahl bestimmt und ausgibt
+     * Funktion die Rundenanzahl bestimmt und ausgibt
      */
     open fun printMove(roundsNumber: Int) {
         println("Der ${roundsNumber + 1}. zug von: $name")
